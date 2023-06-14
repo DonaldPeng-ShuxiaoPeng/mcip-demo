@@ -1,6 +1,6 @@
 # mcip-demo
 demo file for MCIP 
-Labman 
+Labman:  
 ![image](https://github.com/DonaldPeng-ShuxiaoPeng/mcip-demo/assets/106217385/348a33bb-be82-4b7c-9950-b89c6cd30371)
 
 ## Contributor - Alpha order
