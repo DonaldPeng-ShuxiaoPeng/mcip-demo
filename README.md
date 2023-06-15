@@ -1,6 +1,6 @@
 # mcip-demo
-demo file for MCIP 
-Google drive link of this project demo information:   
+demo file for MCIP   
+Google drive link - Demo info:     
 https://drive.google.com/drive/folders/1KrlIMS5u8_MBGHRUHaZtenGKGqXYU126?usp=drive_link
 
 Labman:    
