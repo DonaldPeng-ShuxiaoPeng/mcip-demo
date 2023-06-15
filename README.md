@@ -24,7 +24,7 @@ Link:
 ### Guide for user
 #### Student guide of Labman 
 Link:  
-![image].(<img src="https://github.com/DonaldPeng-ShuxiaoPeng/mcip-demo/assets/106217385/1e14cf5e-8db8-4fe0-97b2-e314329ef873" alt="Image" width="300" height="200">)
+<img src="https://github.com/DonaldPeng-ShuxiaoPeng/mcip-demo/assets/106217385/1e14cf5e-8db8-4fe0-97b2-e314329ef873" alt="Image" width="500" height="500">
 
 #### Admin guide of Labman 
 Link:  
