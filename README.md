@@ -1,6 +1,6 @@
 # mcip-demo
 demo file for MCIP 
-Google drive link of this project demo information:  
+Google drive link of this project demo information:   
 https://drive.google.com/drive/folders/1KrlIMS5u8_MBGHRUHaZtenGKGqXYU126?usp=drive_link
 
 Labman:    
@@ -23,8 +23,8 @@ Link:
 
 ### Guide for user
 #### Student guide of Labman 
-Link: 
-![image](https://github.com/DonaldPeng-ShuxiaoPeng/mcip-demo/assets/106217385/3b2ea38e-3789-4d82-b514-1b4770b84065)
+Link:  
+![image](https://github.com/DonaldPeng-ShuxiaoPeng/mcip-demo/assets/106217385/1e14cf5e-8db8-4fe0-97b2-e314329ef873)
 
 #### Admin guide of Labman 
 Link:  
